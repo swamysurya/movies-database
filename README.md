@@ -16,3 +16,8 @@
 }
 
 ```
+
+beacuse of intial creation of read me file in the repo creating create
+a intial commit that makes push local code to remote is make a fatal error
+
+this will close by force pushing and pulling to and from remote repo
