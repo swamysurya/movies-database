@@ -16,4 +16,8 @@ a video-on-demand website
 }
 
 ```
+<<<<<<< HEAD
 >>>>>>> c623f6e (new vite project created)
+=======
+    
+>>>>>>> aca5213 (pull request from remote done)
