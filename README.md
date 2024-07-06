@@ -1,7 +1,9 @@
 <<<<<<< HEAD
+
 # movies-database
-a video-on-demand website
-=======
+
+# a video-on-demand website
+
 #### Added a key binding json code for toggling between editor and terminal
 
 ```
@@ -16,8 +18,10 @@ a video-on-demand website
 }
 
 ```
+
 <<<<<<< HEAD
->>>>>>> c623f6e (new vite project created)
-=======
-    
->>>>>>> aca5213 (pull request from remote done)
+
+> > > > > > > # c623f6e (new vite project created)
+
+> > > > > > > aca5213 (pull request from remote done)
+> > > > > > > sdq
