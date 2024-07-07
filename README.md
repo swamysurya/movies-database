@@ -1,3 +1,6 @@
+pnpm installed
+create vite app with pnpm
+
 # movies-database
 
 # a video-on-demand website
