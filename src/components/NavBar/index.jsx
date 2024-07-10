@@ -1,20 +1,16 @@
 import { Link } from "react-router-dom";
 import SearchMoviesContext from "../../context/searchMovieContext";
 
-const NavBar = () => {
+const NavBar = (props) => {
   const renderSearchBar = () => (
     <SearchMoviesContext.Consumer>
       {(value) => {
-        const {
-          onTriggerSearchingQuery,
-          onChangeSearchInput,
-          searchInput,
-          apiStatus,
-        } = value;
-
+        const { onTriggerSearchingQuery, onChangeSearchInput, searchInput } =
+          value;
+        // for handling change in search input value
         const onChangeHandler = (event) =>
           onChangeSearchInput(event.target.value);
-
+        // for when clikcing search button
         const onSearchHandler = (event) => {
           event.preventDefault();
           const { history } = props;
